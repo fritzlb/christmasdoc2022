@@ -1,6 +1,6 @@
 # christmasdoc2022
 
-Weihnachtskarten 2022 Dokumentation WIP
+LED-Karten Dokumentation, ursprünglich für Weihnachten 2022 WIP
 
 AtMega328 basierte Karten:\
 16MHz Quartz\
@@ -12,3 +12,6 @@ claas_karte.ino benötigt LEDs an Pins 9 und 10 sowie eine WS28-kompatible LED a
 \
 \
 karte_fr ist auf Pico-Basis
+
+
+karte2: ESP8266 Basis
