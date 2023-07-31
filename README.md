@@ -13,5 +13,5 @@ claas_karte.ino benötigt LEDs an Pins 9 und 10 sowie eine WS28-kompatible LED a
 \
 karte_fr ist auf Pico-Basis
 
-
-karte2: ESP8266 Basis
+karte1: Pico-Basis, Karte zeigt Leuchtturm
+karte2: ESP8266 Basis, Karte zeigt Funkturm
