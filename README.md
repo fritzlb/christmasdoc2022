@@ -15,3 +15,4 @@ karte_fr ist auf Pico-Basis
 
 karte1: Pico-Basis, Karte zeigt Leuchtturm
 karte2: ESP8266 Basis, Karte zeigt Funkturm
+karte3: bel. Baum bei Nacht, 5x5mm LED
